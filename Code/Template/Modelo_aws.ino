@@ -5,9 +5,9 @@
 
 
 // Enter your WiFi ssid and password
-const char* ssid = "TP-Link_IoT"; //Provide your SSID
-const char* password = "tigoiot2021"; // Provide Password
-const char* mqtt_server = "a1t1ihg6hvj21r-ats.iot.us-east-2.amazonaws.com"; // Relace with your MQTT END point
+const char* ssid = "###############"; //Provide your SSID
+const char* password = "###############"; // Provide Password
+const char* mqtt_server = "###############"; // Relace with your MQTT END point
 const int   mqtt_port = 8883;
 
 String Read_rootca;
