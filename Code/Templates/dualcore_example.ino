@@ -5,13 +5,13 @@
 
 TaskHandle_t Task1, Task2;
 //To give credentials to wificlient
-const char* ssid = "iPhone";
-const char* password = "wificiencia123";
+const char* ssid = "############";
+const char* password = "############";
 //Initiation of global variables
 int cont = 0;
 //ThingSpeak Credentials
-unsigned long channelID = 1357648;
-const char* WriteAPIKey = "J3IZSX5RXWMGJG3Z";
+unsigned long channelID = 1356484;
+const char* WriteAPIKey = "############";
 //Initiation of wificlient
 WiFiClient cliente;
 void codeForTask1( void * parameter )
